@@ -13,22 +13,22 @@ Moreover, with the surge in digital communication, the need for a reliable spam 
 ## 🛠️ Features of Kavach Application
 
 
-### 🛡️Multi-Channel Spam Detection:
+### 🛡️Multi-Channel Spam Detection
 Kavach stands out by effectively identifying and blocking spam across calls, SMS, and emails. This comprehensive approach ensures that users are shielded from a wide range of spam threats, enhancing the overall security of their communication experience.
 
-### 🔄Dynamic User-Feedback Mechanism:
+### 🔄Dynamic User-Feedback Mechanism
 The app actively involves users in refining its spam detection capabilities. Through continuous user feedback, Kavach learns and adapts to new spam patterns, progressively improving its accuracy over time. This dynamic mechanism ensures that the app stays ahead of emerging threats.
 
-### 📊Risk Score Calculation:
+### 📊Risk Score Calculation
 Kavach doesn't just detect spam; it helps users assess the potential threat level. By calculating and displaying a risk score for each incoming communication, users can quickly gauge whether a message poses a potential risk. This feature empowers users to make informed decisions about engaging with messages or marking them as spam.
 
-### 📂Categorization of Spam:
+### 📂Categorization of Spam
 Going beyond basic detection, Kavach categorizes spam into distinct types, such as fraud, phishing, promotional messages, and financial alerts. This detailed categorization provides users with a clear understanding of the nature of the threat, allowing for more informed and targeted responses.
 
-### 🌐Government Oversight Dashboard:
+### 🌐Government Oversight Dashboard
 Kavach includes a specialized dashboard designed for government oversight. This feature provides detailed analytics and visual insights, empowering authorities to take swift actions against identified spammers. The dashboard contributes to the broader effort of combating cyber threats by facilitating efficient and targeted interventions.
 
-### 💻Technological Expertise:
+### 💻Technological Expertise
 Built on React Native and Java, Kavach ensures a smooth and responsive user interface. The integration of advanced technologies like Natural Language Processing (NLP) and Long Short-term Memory (LSTM) enhances the app's ability to understand and categorize complex spam patterns. This technological expertise ensures a robust and efficient spam detection system.
 
 ## 🧾 User Application Architecture
